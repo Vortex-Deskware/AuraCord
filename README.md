@@ -5,3 +5,4 @@
 - Super Quick
 - Optimized
 - Open Source!
+- No account banning risks! it simply is the discord web app packaged into a app
